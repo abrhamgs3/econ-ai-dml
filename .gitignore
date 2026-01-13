@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data
+data/raw/
+data/processed/
+results/
